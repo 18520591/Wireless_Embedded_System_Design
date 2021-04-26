@@ -16,4 +16,4 @@ b,Hardware,
      + tiny OS
 
 * 2. block chain là gì (4đ)
-có vai trò như thế nào trong IoT kế tiếp
+- có vai trò như thế nào trong IoT kế tiếp
