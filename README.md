@@ -10,8 +10,8 @@
 ##### - sensor & perripheral
 ######     + sensor analog
 ######     + sensor didital
-#######         . spi
-#######         . i2c
+*         . spi
+*         . i2c
 ##### - OS
 ######     + tiny OS
 
