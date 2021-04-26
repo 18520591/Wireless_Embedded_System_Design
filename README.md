@@ -1,5 +1,6 @@
 # Wireless_Embedded_System_Design
 ## Midterm
+
 * 1.iot 6(đ)
 a,Khái niệm
 b,Hardware,
@@ -13,5 +14,6 @@ b,Hardware,
          . i2c
 - OS
      + tiny OS
+
 * 2. block chain là gì (4đ)
 có vai trò như thế nào trong IoT kế tiếp
